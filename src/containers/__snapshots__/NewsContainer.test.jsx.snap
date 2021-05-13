@@ -1,0 +1,428 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsContainer Container displays a list of news from today 1`] = `
+<ul
+  aria-label="news"
+>
+  <li>
+    <figure>
+      <img
+        src="https://lifehacker.com/when-you-can-pre-order-everything-apple-announced-today-1846722213"
+      />
+      <figcaption>
+        When You Can Pre-Order Everything Apple Announced Today
+         - 
+        When You Can Pre-Order Everything Apple Announced Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vestx7gdwfrz5330hguw.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://lifehacker.com/when-you-can-pre-order-everything-apple-announced-today-1846722213"
+    >
+      When You Can Pre-Order Everything Apple Announced Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.wired.com/story/everything-apple-announced-april-2021/"
+      />
+      <figcaption>
+        Everything Apple Announced Today: New iMacs, iPads, AirTags
+         - 
+        Everything Apple Announced Today: New iMacs, iPads, AirTags
+      </figcaption>
+    </figure>
+    <img
+      src="https://media.wired.com/photos/607f130d8b8cd2f789408f36/191:100/w_1280,c_limit/Gear-apple_new-imac-spring21_hero_04202021.jpg"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.wired.com/story/everything-apple-announced-april-2021/"
+    >
+      Everything Apple Announced Today: New iMacs, iPads, AirTags
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/16/us/coronavirus-today.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/16/multimedia/16coronavirus-nl/16coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/16/us/coronavirus-today.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/28/us/coronavirus-today.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/28/multimedia/28coronavirus-nl/28coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/28/us/coronavirus-today.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/05/07/us/coronavirus-today-vaccines.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/01/17/us/china-wuhan-coronavirus-maps-promo-1610933157013/china-wuhan-coronavirus-maps-promo-1610933157013-facebookJumbo-v474.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/05/07/us/coronavirus-today-vaccines.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/13/us/coronavirus-today-vaccines.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/13/multimedia/13coronavirus-nl/13coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/13/us/coronavirus-today-vaccines.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/30/us/coronavirus-today-summer-travel.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/30/multimedia/30coronavirus-nl/30coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/30/us/coronavirus-today-summer-travel.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/19/us/coronavirus-today.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/19/multimedia/19coronavirus-nl/19coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/19/us/coronavirus-today.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/22/us/coronavirus-today.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/22/multimedia/22coronavirus-nl/22coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/22/us/coronavirus-today.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/29/us/coronavirus-today-masks.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/29/multimedia/29coronavirus-nl/29coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/29/us/coronavirus-today-masks.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/14/us/coronavirus-today-vaccines.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/14/multimedia/14coronavirus-nl/14coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/14/us/coronavirus-today-vaccines.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.nytimes.com/2021/04/12/us/coronavirus-today-vaccines.html"
+      />
+      <figcaption>
+        Coronavirus Briefing: What Happened Today
+         - 
+        Coronavirus Briefing: What Happened Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://static01.nyt.com/images/2021/04/12/multimedia/12coronavirus-nl/12coronavirus-nl-facebookJumbo.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.nytimes.com/2021/04/12/us/coronavirus-today-vaccines.html"
+    >
+      Coronavirus Briefing: What Happened Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.engadget.com/amazon-fire-hd-tablet-blink-mini-camera-bundle-101541834.html"
+      />
+      <figcaption>
+        Amazon's Fire HD 8 and Blink Mini camera bundle is $75 for today only
+         - 
+        Amazon's Fire HD 8 and Blink Mini camera bundle is $75 for today only
+      </figcaption>
+    </figure>
+    <img
+      src="https://s.yimg.com/os/creatr-uploaded-images/2021-04/f9fc6df0-a0ef-11eb-b1db-c76b1840ff4f"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.engadget.com/amazon-fire-hd-tablet-blink-mini-camera-bundle-101541834.html"
+    >
+      Amazon's Fire HD 8 and Blink Mini camera bundle is $75 for today only
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.engadget.com/twitter-full-size-image-previews-now-available-ios-android-201809678.html"
+      />
+      <figcaption>
+        Twitter is rolling out full-size image previews on mobile today
+         - 
+        Twitter is rolling out full-size image previews on mobile today
+      </figcaption>
+    </figure>
+    <img
+      src="https://s.yimg.com/os/creatr-uploaded-images/2021-03/66a960e0-81cc-11eb-b93f-8a3d0bb520bd"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.engadget.com/twitter-full-size-image-previews-now-available-ios-android-201809678.html"
+    >
+      Twitter is rolling out full-size image previews on mobile today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://gizmodo.com/how-to-watch-apples-spring-loaded-event-today-1846717939"
+      />
+      <figcaption>
+        How to Watch Apple's 'Spring Loaded' Event Today
+         - 
+        How to Watch Apple's 'Spring Loaded' Event Today
+      </figcaption>
+    </figure>
+    <img
+      src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ifiettsjid6pnm0hzodm.png"
+      style="height: 50px;"
+    />
+    <a
+      href="https://gizmodo.com/how-to-watch-apples-spring-loaded-event-today-1846717939"
+    >
+      How to Watch Apple's 'Spring Loaded' Event Today
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.engadget.com/hulu-ufc-pay-per-view-espn-plus-000656617.html"
+      />
+      <figcaption>
+        UFC pay-per-view events are now available through ESPN+ on Hulu
+         - 
+        UFC pay-per-view events are now available through ESPN+ on Hulu
+      </figcaption>
+    </figure>
+    <img
+      src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/daa98f60-aeae-11eb-afee-ed59f31c2b7f"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.engadget.com/hulu-ufc-pay-per-view-espn-plus-000656617.html"
+    >
+      UFC pay-per-view events are now available through ESPN+ on Hulu
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.engadget.com/hulu-viacom-cbs-170959163.html"
+      />
+      <figcaption>
+        Hulu expands its live TV service with ViacomCBS networks
+         - 
+        Hulu expands its live TV service with ViacomCBS networks
+      </figcaption>
+    </figure>
+    <img
+      src="https://s.yimg.com/os/creatr-images/2019-12/3151d7a0-1793-11ea-bacf-88ef35901571"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.engadget.com/hulu-viacom-cbs-170959163.html"
+    >
+      Hulu expands its live TV service with ViacomCBS networks
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="https://www.engadget.com/tiktok-ceo-shouzi-chew-161434967.html"
+      />
+      <figcaption>
+        TikTok’s new CEO is an executive from its parent company
+         - 
+        TikTok’s new CEO is an executive from its parent company
+      </figcaption>
+    </figure>
+    <img
+      src="https://s.yimg.com/os/creatr-uploaded-images/2021-01/10ac9630-5dd7-11eb-bbfb-7686734d9ad0"
+      style="height: 50px;"
+    />
+    <a
+      href="https://www.engadget.com/tiktok-ceo-shouzi-chew-161434967.html"
+    >
+      TikTok’s new CEO is an executive from its parent company
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="http://techcrunch.com/2021/04/29/here-are-all-the-startups-pitching-today-at-venture-day-minsk/"
+      />
+      <figcaption>
+        Here are all the startups pitching today at Venture Day Minsk
+         - 
+        Here are all the startups pitching today at Venture Day Minsk
+      </figcaption>
+    </figure>
+    <img
+      src="https://techcrunch.com/wp-content/uploads/2021/04/vdm.jpg?w=764"
+      style="height: 50px;"
+    />
+    <a
+      href="http://techcrunch.com/2021/04/29/here-are-all-the-startups-pitching-today-at-venture-day-minsk/"
+    >
+      Here are all the startups pitching today at Venture Day Minsk
+    </a>
+  </li>
+  <li>
+    <figure>
+      <img
+        src="http://techcrunch.com/2021/04/13/startup-alley-at-techcrunch-disrupt-2021-is-filling-up-fast-apply-today/"
+      />
+      <figcaption>
+        Startup Alley at TechCrunch Disrupt 2021 is filling up fast. Apply today.
+         - 
+        Startup Alley at TechCrunch Disrupt 2021 is filling up fast. Apply today.
+      </figcaption>
+    </figure>
+    <img
+      src="https://techcrunch.com/wp-content/uploads/2021/04/48834160583_f05a58b9d3_k.jpg?w=600"
+      style="height: 50px;"
+    />
+    <a
+      href="http://techcrunch.com/2021/04/13/startup-alley-at-techcrunch-disrupt-2021-is-filling-up-fast-apply-today/"
+    >
+      Startup Alley at TechCrunch Disrupt 2021 is filling up fast. Apply today.
+    </a>
+  </li>
+</ul>
+`;
