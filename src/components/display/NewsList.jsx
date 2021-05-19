@@ -6,9 +6,7 @@ const NewsList = ({ newsProp }) => (
     <ul aria-label="news">
         {newsProp.map((news) => (
             <li key={`${news.title}-${news.author}`}>
-                <News name={news.title} image={news.url} text={news.title} />
-                <img src={news.urlToImage} style={{height:'50px'}}></img>
-                <a href={news.url}>{news.title}</a>
+                <News name={news.title} image={news.urlToImage} text={news.title} url={news.url} />
             </li>
         ))}
     </ul>

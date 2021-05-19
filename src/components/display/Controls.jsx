@@ -2,14 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 
-const Controls = ({ newsName, onNameChange, onSubmit }) => (
+const Controls = ({ newsName, onNewsNameChange, onSubmit }) => (
     <form onSubmit={onSubmit}>
         <label htmlFor="news-name">Search News</label>
         <input
         id="news-name"
         type="text"
         value={newsName}
-        onChange={onNameChange}
+        onChange={onNewsNameChange}
         />
         <button aria-label="find-news">Submit</button>
     </form>
@@ -17,7 +17,7 @@ const Controls = ({ newsName, onNameChange, onSubmit }) => (
 
 Controls.propTypes = {
     newsName: PropTypes.string.isRequired,
-    onNameChange: PropTypes.func.isRequired,
+    onNewsNameChange: PropTypes.func.isRequired,
     onSubmit: PropTypes.func.isRequired,
 };
 

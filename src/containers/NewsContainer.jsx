@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Controls from '../components/display/Controls';
 import NewsList from '../components/display/NewsList';
-import { fetchByNewsTopic, fetchNews } from '../components/services/newsApi';
+import { fetchNewsByTopic, fetchNews } from '../components/services/newsApi';
 
 export default class NewsContainer extends Component {
     state = {
@@ -42,7 +42,7 @@ export default class NewsContainer extends Component {
           <>
             <Controls
               newsName={newsName}
-              onNewsNameChange={this.handlenewsNameChange}
+              onNewsNameChange={this.handleNewsNameChange}
               onSubmit={this.handleSubmit}
             />
             <NewsList newsProp={news} />
